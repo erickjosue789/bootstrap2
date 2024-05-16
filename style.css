@@ -1,0 +1,14 @@
+.img-cover {
+    height: 700px;
+    object-fit: cover;
+}
+
+.img-cover-2 {
+    height: 400px;
+    object-fit: cover;
+}
+
+.banner h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
